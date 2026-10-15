@@ -26,4 +26,5 @@ As I complete these designs, I hope to run these models through Ansys composites
 One more consideration I have to make is a way to reduce torsion across top shell. Currently, the way I would like to implement this are hollow carbon fiber cross tubes which in theory should reduce cost and manufacturing time. These will connect across opposing ribs such as the two on the driver left and right sides of the car and should prevent couple forces from creating torsion on the ribs.
 ***
 Older design(s):
+
 <img width="332" height="712" alt="image" src="https://github.com/user-attachments/assets/0f2d80d8-a5f3-4a18-99a6-636c36e5a923" />
